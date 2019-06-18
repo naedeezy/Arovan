@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551976912 source:c:\users\akua\desktop\pokum\main.c
+	<stdio.h>
+	<stdlib.h>
+
